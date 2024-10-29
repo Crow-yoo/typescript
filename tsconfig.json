@@ -1,0 +1,11 @@
+// tsconfig.json
+
+{
+    "compilerOptions": {
+      "target": "es5",
+      "module": "commonjs",
+    }
+}
+
+// target: JS로 변환할때의 ECMA 버전
+// module은 commonjs가 대표적
